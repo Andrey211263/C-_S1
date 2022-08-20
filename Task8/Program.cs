@@ -20,6 +20,7 @@ while(count < numbera)
  }
 }
 else
+//Расмотрим случай с отрицательным числом
 {
     if( numbera % 2 != 0 )
     {
