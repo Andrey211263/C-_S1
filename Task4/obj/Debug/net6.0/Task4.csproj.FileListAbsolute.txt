@@ -1,0 +1,15 @@
+G:\Мои документы\Home\Обучение\Домашние задания\2008_2022\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+G:\Мои документы\Home\Обучение\Домашние задания\2008_2022\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мои документы\Home\Обучение\Домашние задания\2008_2022\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+G:\Мои документы\Home\Обучение\Домашние задания\2008_2022\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+G:\Мои документы\Home\Обучение\Домашние задания\2008_2022\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+G:\Мои документы\Home\Обучение\Домашние задания\2008_2022\Task4\bin\Debug\net6.0\Task4.exe
+G:\Мои документы\Home\Обучение\Домашние задания\2008_2022\Task4\bin\Debug\net6.0\Task4.deps.json
+G:\Мои документы\Home\Обучение\Домашние задания\2008_2022\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+G:\Мои документы\Home\Обучение\Домашние задания\2008_2022\Task4\bin\Debug\net6.0\Task4.dll
+G:\Мои документы\Home\Обучение\Домашние задания\2008_2022\Task4\bin\Debug\net6.0\Task4.pdb
+G:\Мои документы\Home\Обучение\Домашние задания\2008_2022\Task4\obj\Debug\net6.0\Task4.dll
+G:\Мои документы\Home\Обучение\Домашние задания\2008_2022\Task4\obj\Debug\net6.0\refint\Task4.dll
+G:\Мои документы\Home\Обучение\Домашние задания\2008_2022\Task4\obj\Debug\net6.0\Task4.pdb
+G:\Мои документы\Home\Обучение\Домашние задания\2008_2022\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+G:\Мои документы\Home\Обучение\Домашние задания\2008_2022\Task4\obj\Debug\net6.0\ref\Task4.dll
